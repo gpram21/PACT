@@ -1,0 +1,5 @@
+consumer\Place.class
+consumer\Location$LocationBuilder.class
+consumer\LocationServiceClient.class
+consumer\Location.class
+consumer\ConsumerApp.class

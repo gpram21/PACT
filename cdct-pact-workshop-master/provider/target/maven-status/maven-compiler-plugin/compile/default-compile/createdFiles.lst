@@ -1,0 +1,9 @@
+provider\GlobalControllerExceptionHandler.class
+provider\LocationController.class
+provider\Place.class
+provider\Location.class
+provider\LocationServiceApplication.class
+provider\Location$LocationBuilder.class
+provider\LocationService.class
+provider\NotFoundException.class
+provider\Place$PlaceBuilder.class
